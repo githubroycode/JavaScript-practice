@@ -1,4 +1,4 @@
-const burger = 600;
+const burger = 60;
 
 if(burger>=500){
     console.log("You got a free coke.");
